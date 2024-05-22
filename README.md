@@ -1,8 +1,6 @@
 
 ---
 ## screenshots
-### Homepage
-![homepage snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/dashboard.png?raw=true)
 ### Policy Record
